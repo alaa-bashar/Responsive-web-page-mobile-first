@@ -3,7 +3,7 @@
 #### For practicing on: Responsive mobile first and side navigation bar, this page is created.
 
 ##### How does it look on Pc ?
-<img src="README assets/pc shots.jpeg" width="500"></img>
+<img src="README assets/pc shot.jpeg" width="500"></img>
 
 ##### How does it look on mobile ?
 
