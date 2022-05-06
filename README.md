@@ -6,7 +6,7 @@
 <img src="README assets/pc shot.jpeg" width="700"></img>
 
 ##### How does it look on mobile ?
-<img src="README assets/mobile shot.jpeg" width="700"></img>
+<img src="README assets/mobile shot.jpeg" width="300"></img>
 
 ##### How does side nav bar look on mobile ?
-<img src="README assets/mobile nav shot.jpeg" width="700"></img>
+<img src="README assets/mobile nav shot.jpeg" width="300"></img>
